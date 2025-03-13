@@ -3,7 +3,7 @@ Hi there! 👋 I'm SANTHOSH R <br> 💻 Java Full Stack Developer <br> ☁️ AW
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="gif" width="300" >
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santhosh-r-santhosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshrpsanthosh@gmail.com) <br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](in/santhosh-r-santhosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshrpsanthosh@gmail.com) <br> 
 
 
 # 💻 Tech Stack:
