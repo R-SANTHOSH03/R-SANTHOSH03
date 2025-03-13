@@ -4,10 +4,12 @@ Hi there! 👋 I'm SANTHOSH R <br> 💻 Java Full Stack Developer <br> ☁️ AW
 
 
 ## 🌐 Socials:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-r-santhosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshrpsanthosh@gmail.com) <br> 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,21 +30,53 @@ Hi there! 👋 I'm SANTHOSH R <br> 💻 Java Full Stack Developer <br> ☁️ AW
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
  <br>
  
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=R-SANTHOSH03&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=R-SANTHOSH03&theme=merko&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-SANTHOSH03&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+</div>
 
 ## 🏆 GitHub Trophies
+
+
 ![](https://github-profile-trophy.vercel.app/?username=R-SANTHOSH03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Motivation Quote
-#### “Don't fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”
 
-### 🔝 Top Contributed Repo
+## ✍️ Motivation Quote
+
+
+   <div align="center">
+    
+### “Don't fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”
+   </div>
+   
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=R-SANTHOSH03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=R-SANTHOSH03&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- retro visitor counter circle -->  
+<div align="center">
+<h3><b>😄 Profile Visitor Count</b></h3>
+<p align="center" >   
+   <img src="https://profile-counter.glitch.me/R-SANTHOSH03/count.svg" /> 
+ </p>
+</div>
+<div>
+  <br>
+   <p align="center">
+   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ </p>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
