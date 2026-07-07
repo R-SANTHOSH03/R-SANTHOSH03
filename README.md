@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="gif" width="220" >
-Hi there! 👋 I'm SANTHOSH R <br> 💻 Java Full Stack Developer <br> ☁️ AWS Cloud Enthusiast <br> 🎨 UI/UX Designer <br> 📫 How to reach me santhoshrpsanthosh@gmail.com <br> 📈 Goals:To grow as a developer while contributing to meaningful and impactful projects!
+Hi there! 👋 I'm SANTHOSH R <br> 💻 Full Stack Developer <br> ☁️ AWS Cloud Enthusiast <br> 🎨 UI/UX Designer <br> 📫 How to reach me santhoshrpsanthosh@gmail.com <br> 📈 Goals:To grow as a developer while contributing to meaningful and impactful projects!
 
 
 ## 🌐 Socials:
